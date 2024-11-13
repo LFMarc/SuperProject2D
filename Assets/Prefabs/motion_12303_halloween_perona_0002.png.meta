@@ -1,0 +1,1909 @@
+fileFormatVersion: 2
+guid: 09b4c84a372302749a9bf36b55310047
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 802
+        width: 235
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1dde3eecd1f75469bd59cb33b8e8f3
+      internalID: 40135332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 822
+        width: 222
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8ecc33289938b4bb100b8fcf4e5b3a
+      internalID: 1887937458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 818
+        width: 207
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd020704a848940b6ee6743d64b755
+      internalID: 1762869531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 854
+        width: 223
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16fb390ed649e54694db708fb3961b1
+      internalID: 681306963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 868
+        width: 117
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce5429dc1d0924cb593896142843e8
+      internalID: -1537503935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_5
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 941
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f590ad644b4145b0ca18173375852
+      internalID: 287099145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_6
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 901
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e4601e01ae2c4eb015c0a185b7523
+      internalID: -1863084190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_7
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 883
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2378e1a868ab7044b80746b6ff9f957
+      internalID: 2008262707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 593
+        width: 141
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5f8219435fc3f47a0f43a406b61524
+      internalID: -369434931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 796
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f19838c706c78488cc79459bdd0b43
+      internalID: 499553979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 611
+        width: 144
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec1805bc6a38f4b8a498d0f844de86
+      internalID: -2136426353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 607
+        width: 142
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d05483de985248b24f0a2f9cc2a0f
+      internalID: -101392513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 612
+        width: 134
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be8712ac5779040854fc3d9495ffc3
+      internalID: -1763568193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 638
+        width: 164
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1140ac33e0e1ca74b934bd462b813c43
+      internalID: 634741646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 643
+        width: 148
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc657a5e282f654b84108b63f957760
+      internalID: 835284338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_15
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 775
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6fbc690a1aff24cbbaec86584efa1e
+      internalID: 34882406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 699
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7c71db6d53ae4e8e132d72460ae37
+      internalID: 1973199346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 702
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82858952a5617dd479cb51472d3bcff1
+      internalID: -116793397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 618
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fd80321f57e3440b4b4f169d31ca10
+      internalID: -2090482157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_19
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 666
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d945ff8036c84ca3daa04e042be66
+      internalID: -1610838609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_20
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 647
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f19c859fec2c9c4596d95412abb597b
+      internalID: -289555642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 654
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30813e2ce32aa345b99bfe4244e1254
+      internalID: -1517943784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_22
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 643
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bfd76cbb37824993a7d9be319c519
+      internalID: 699161707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 128
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4b0b8e8cd8e844b73e10e41ec2d9e
+      internalID: 389993936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 570
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e797589906a1e0a468020d0bac090961
+      internalID: -386556446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 438
+        width: 158
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1ea74b9c5d8549b96db8c6dc04dc1
+      internalID: -2106984058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 431
+        width: 151
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a63db4585d34548835b98e51d050e3
+      internalID: -2073614259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 432
+        width: 52
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe058fa73561640b464ad03a6cb680
+      internalID: -1400682309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 549
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040926a07223394db5889603a8b8a91
+      internalID: 1088694071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_29
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a4432b7198e074d89fc77accc6b992
+      internalID: -478791432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_30
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 412
+        width: 130
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15995adfb72afe445b7c97f68013ef7b
+      internalID: -1077714473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_31
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 432
+        width: 134
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d2476a1983954d9ff4b5f754c8b1d
+      internalID: -78656618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_32
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 550
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f51d55fcc5184f97b02715f4204d0
+      internalID: 912528107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_33
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 467
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0e78b2ccc62840b4d7f01c626e171
+      internalID: 1148458096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 549
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d055f65e5ebbb0d4a8ca80da553e8b9b
+      internalID: -815021429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_35
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 539
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc399813c1efc374fb6c3768283a4d5c
+      internalID: 106188138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 533
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f591ce53c45f49bfc89065c4907e6
+      internalID: -312166355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_37
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 506
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a42d7abb88f249438e4a2512f299d23
+      internalID: 83572897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_38
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 485
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce390324ff552f04db625438090969be
+      internalID: 364917698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58597cfbb465de445905307595dbfae6
+      internalID: -1073521934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 371
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd4050273ded1479dbcec2445cf6e1
+      internalID: -1381552783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69ccee5dea4664faf960d0db3da8a1
+      internalID: -1456994324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 232
+        width: 109
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13252e692c2ef46846fd0f5fd20c49
+      internalID: -1034554880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 246
+        width: 94
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4c6b390371e845b3461d52aa4e3d6
+      internalID: -1641326360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 302
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b74602e72a1644b32531cf55a219a
+      internalID: -234410882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_45
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 306
+        width: 141
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166de34caf081c4c83dae83fb71db39
+      internalID: 1865940102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 343
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22655072557af6b4f8c0e6a622ab3b2c
+      internalID: 997072158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_47
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 244
+        width: 101
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d038adbbb3ac6a845a492b68428ca9ac
+      internalID: -1109483865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_48
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 334
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05e0ca9684506448f811a9659119c1
+      internalID: -1203756757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_49
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 257
+        width: 117
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da29acdc6b3e6c4aa965add9ccea489
+      internalID: 1613497310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_50
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 279
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7c0138b78ae048b7089ad6730bce4
+      internalID: 629265241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 335
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94d41ef6dc47d49bb700e5afd26c81
+      internalID: 282815632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_52
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 309
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcb3a073509edf49b4cf41553bf5e5e
+      internalID: 1921878392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c63bbef4059b749a4afdc5ec3b135b
+      internalID: 114678356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd233eed7fb41345998c4806ca77132
+      internalID: 1883521885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 254
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b3299b0a63e04ba3bffafc9b9aa69
+      internalID: -1098126159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 224
+        width: 200
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf600230f281f94fb84dae55fff022d
+      internalID: 225684728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_57
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 286
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d277b62045a04439e4ee8f41338fa3
+      internalID: 1495386836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 65
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467a22273d935ce46bb7c2a90ae46990
+      internalID: 1211371369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 233
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e86a49e51273408b42cea7c74d995
+      internalID: -206815860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_60
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 171
+        width: 377
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f4811527672147aa07eb68fa18920
+      internalID: 416750390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_61
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 157
+        width: 293
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f627cd64f37a4c8089679d6cf56ed
+      internalID: 1103860323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_62
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 214
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2783b1454ce41294b99f07bf945b8738
+      internalID: -1605311872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 188
+        width: 165
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2202798ce72b344905f30bb3d252a5
+      internalID: 185683457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_64
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 185
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19862bba02ca7c04e8308dd5811745ca
+      internalID: -1051692685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f194665b175513344825615ffb1f11d7
+      internalID: -706845223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 145
+        width: 165
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db47a96675788dd4aad75a60431033ff
+      internalID: -293944168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 117
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe4e5026e408c4197f15257a3cea18
+      internalID: -40458966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 113
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644cfc3eb02cba84f800fa7d9e240351
+      internalID: -354622049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_69
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 93
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47c1ed2b9095547b9a8b870f8a6e2e
+      internalID: -236039968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_70
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 147
+        width: 143
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b67242b6718b4b98aaa9e19e22fc6
+      internalID: -1470422103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 126
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea61b575dfffa41b6793e1c8e3ba12
+      internalID: -2144860753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_72
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 111
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632dd1e76ed942d479c5d7aed1e09086
+      internalID: 1647122622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_73
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 106
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f44baac3eec14a90ef0dd426d7736
+      internalID: 1879455295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_74
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 115
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0041afd3bfc54780961ea1d7355cf
+      internalID: 1106577868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_75
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 104
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd06277bde54d498481ee53e4a7534
+      internalID: -124958511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_76
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 118
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac5fe27c60b3840bfece3b46595b1a
+      internalID: 952184294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab37a04deb63eb4b8ad3a114d4194f6
+      internalID: 1917141680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 124
+        width: 136
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6eb99f4610e04408cf486ce6a0a65e
+      internalID: 486653612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_79
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 110
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f297a5e0bf77a7b42ac91eebad893051
+      internalID: 1436370184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12303_halloween_perona_0002_80
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 126
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c865b85674641428992236b0265d53
+      internalID: 1100430731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_12303_halloween_perona_0002_0: 40135332
+      motion_12303_halloween_perona_0002_1: 1887937458
+      motion_12303_halloween_perona_0002_10: -2136426353
+      motion_12303_halloween_perona_0002_11: -101392513
+      motion_12303_halloween_perona_0002_12: -1763568193
+      motion_12303_halloween_perona_0002_13: 634741646
+      motion_12303_halloween_perona_0002_14: 835284338
+      motion_12303_halloween_perona_0002_15: 34882406
+      motion_12303_halloween_perona_0002_16: 1973199346
+      motion_12303_halloween_perona_0002_17: -116793397
+      motion_12303_halloween_perona_0002_18: -2090482157
+      motion_12303_halloween_perona_0002_19: -1610838609
+      motion_12303_halloween_perona_0002_2: 1762869531
+      motion_12303_halloween_perona_0002_20: -289555642
+      motion_12303_halloween_perona_0002_21: -1517943784
+      motion_12303_halloween_perona_0002_22: 699161707
+      motion_12303_halloween_perona_0002_23: 389993936
+      motion_12303_halloween_perona_0002_24: -386556446
+      motion_12303_halloween_perona_0002_25: -2106984058
+      motion_12303_halloween_perona_0002_26: -2073614259
+      motion_12303_halloween_perona_0002_27: -1400682309
+      motion_12303_halloween_perona_0002_28: 1088694071
+      motion_12303_halloween_perona_0002_29: -478791432
+      motion_12303_halloween_perona_0002_3: 681306963
+      motion_12303_halloween_perona_0002_30: -1077714473
+      motion_12303_halloween_perona_0002_31: -78656618
+      motion_12303_halloween_perona_0002_32: 912528107
+      motion_12303_halloween_perona_0002_33: 1148458096
+      motion_12303_halloween_perona_0002_34: -815021429
+      motion_12303_halloween_perona_0002_35: 106188138
+      motion_12303_halloween_perona_0002_36: -312166355
+      motion_12303_halloween_perona_0002_37: 83572897
+      motion_12303_halloween_perona_0002_38: 364917698
+      motion_12303_halloween_perona_0002_39: -1073521934
+      motion_12303_halloween_perona_0002_4: -1537503935
+      motion_12303_halloween_perona_0002_40: -1381552783
+      motion_12303_halloween_perona_0002_41: -1456994324
+      motion_12303_halloween_perona_0002_42: -1034554880
+      motion_12303_halloween_perona_0002_43: -1641326360
+      motion_12303_halloween_perona_0002_44: -234410882
+      motion_12303_halloween_perona_0002_45: 1865940102
+      motion_12303_halloween_perona_0002_46: 997072158
+      motion_12303_halloween_perona_0002_47: -1109483865
+      motion_12303_halloween_perona_0002_48: -1203756757
+      motion_12303_halloween_perona_0002_49: 1613497310
+      motion_12303_halloween_perona_0002_5: 287099145
+      motion_12303_halloween_perona_0002_50: 629265241
+      motion_12303_halloween_perona_0002_51: 282815632
+      motion_12303_halloween_perona_0002_52: 1921878392
+      motion_12303_halloween_perona_0002_53: 114678356
+      motion_12303_halloween_perona_0002_54: 1883521885
+      motion_12303_halloween_perona_0002_55: -1098126159
+      motion_12303_halloween_perona_0002_56: 225684728
+      motion_12303_halloween_perona_0002_57: 1495386836
+      motion_12303_halloween_perona_0002_58: 1211371369
+      motion_12303_halloween_perona_0002_59: -206815860
+      motion_12303_halloween_perona_0002_6: -1863084190
+      motion_12303_halloween_perona_0002_60: 416750390
+      motion_12303_halloween_perona_0002_61: 1103860323
+      motion_12303_halloween_perona_0002_62: -1605311872
+      motion_12303_halloween_perona_0002_63: 185683457
+      motion_12303_halloween_perona_0002_64: -1051692685
+      motion_12303_halloween_perona_0002_65: -706845223
+      motion_12303_halloween_perona_0002_66: -293944168
+      motion_12303_halloween_perona_0002_67: -40458966
+      motion_12303_halloween_perona_0002_68: -354622049
+      motion_12303_halloween_perona_0002_69: -236039968
+      motion_12303_halloween_perona_0002_7: 2008262707
+      motion_12303_halloween_perona_0002_70: -1470422103
+      motion_12303_halloween_perona_0002_71: -2144860753
+      motion_12303_halloween_perona_0002_72: 1647122622
+      motion_12303_halloween_perona_0002_73: 1879455295
+      motion_12303_halloween_perona_0002_74: 1106577868
+      motion_12303_halloween_perona_0002_75: -124958511
+      motion_12303_halloween_perona_0002_76: 952184294
+      motion_12303_halloween_perona_0002_77: 1917141680
+      motion_12303_halloween_perona_0002_78: 486653612
+      motion_12303_halloween_perona_0002_79: 1436370184
+      motion_12303_halloween_perona_0002_8: -369434931
+      motion_12303_halloween_perona_0002_80: 1100430731
+      motion_12303_halloween_perona_0002_9: 499553979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

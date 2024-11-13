@@ -1,111 +1,111 @@
 using UnityEngine;
-using System;
 
-[RequireComponent(typeof(Rigidbody2D))]
 public class Jetpack : MonoBehaviour
 {
-	public enum Direction
-	{
-		Left,
-		Right
-	}
+    public enum Direction
+    {
+        Left,
+        Right
+    }
 
-	#region Properties
-	public float Energy 
-	{
-		get
-		{
-			return _energy;
-		}
-		set
-		{
-			_energy = Mathf.Clamp(value,0,_maxEnergy);
-		}
-	}
-	public bool Flying { get; set; }
-	#endregion
+    #region Properties
+    public float Energy
+    {
+        get
+        {
+            return _energy;
+        }
+        set
+        {
+            // Aseguramos que la energía no exceda el máximo
+            _energy = Mathf.Clamp(value, 0, _maxEnergy);
+        }
+    }
 
-	#region Fields							     
-	private Rigidbody2D _targetRB;
-	[SerializeField] private float _energy;
-	[SerializeField] private float _maxEnergy;
-	[SerializeField] private float _energyFlyingRatio;
-	[SerializeField] private float _energyRegenerationRatio;
-	[SerializeField] private float _horizontalForce;
-	[SerializeField] private float _flyForce;
+    public bool Flying { get; set; }
+    #endregion
 
-	#endregion
+    #region Fields
+    private Rigidbody2D _targetRB;
+    [SerializeField] private float _energy;   // Energía actual
+    [SerializeField] private float _maxEnergy = 100f;  // Energía máxima inicial de 100
+    [SerializeField] private float _energyFlyingRatio;
+    [SerializeField] private float _energyRegenerationRatio;
+    [SerializeField] private float _horizontalForce;
+    [SerializeField] private float _flyForce;
+    #endregion
 
-	#region Unity Callbacks
-	private void Awake()
-	{
-		_targetRB = GetComponent<Rigidbody2D>();
-	}
-	// Start is called before the first frame update
-	void Start()
-	{
-		Energy = _maxEnergy;
-	}
+    #region Unity Callbacks
+    private void Awake()
+    {
+        _targetRB = GetComponent<Rigidbody2D>();
+    }
 
-	// Update is called once per physic frame
-	void FixedUpdate()
-	{
-		if (Flying)
-			DoFly();
+    void Start()
+    {
+        Energy = _maxEnergy;  // Establecer la energía inicial al valor máximo de 100
+    }
 
-		//Le quitamos el signo a la velocidad si es negativa.
-		//Luego si es menor de 0.1, consideramos que estamos parados y cargamos
-		if (Mathf.Abs(_targetRB.velocity.y) < 0.1f)
-			Regenerate();
-	}
+    void FixedUpdate()
+    {
+        if (Flying)
+            DoFly();
 
-	#endregion
+        if (Mathf.Abs(_targetRB.velocity.y) < 0.1f)
+            Regenerate();
+    }
+    #endregion
 
-	#region Public Methods
-	public void FlyUp()
-	{
-		Flying = true;
-	}
-	public void StopFlying()
-	{
-		Flying = false;
-	}
+    #region Public Methods
+    public void FlyUp()
+    {
+        Flying = true;
+    }
 
-	public void Regenerate()
-	{		
-		Energy += _energyRegenerationRatio;
-	}
+    public void StopFlying()
+    {
+        Flying = false;
+    }
 
-	public void AddEnergy(float energy)
-	{
-		Energy += energy;
-	}
+    public void Regenerate()
+    {
+        Energy += _energyRegenerationRatio;
+    }
 
-	public void FlyHorizontal(Direction flyDirection)
-	{
-		if (!Flying)
-			return;
+    public void AddEnergy(float energy)
+    {
+        Energy += energy;
+    }
 
-		if (flyDirection == Direction.Left)
-			_targetRB.AddForce(Vector2.left * _horizontalForce);
-		else
-			_targetRB.AddForce(Vector2.right * _horizontalForce);
+    public void FlyHorizontal(Direction flyDirection)
+    {
+        if (!Flying)
+            return;
 
-	}
-	#endregion
+        if (flyDirection == Direction.Left)
+            _targetRB.AddForce(Vector2.left * _horizontalForce);
+        else
+            _targetRB.AddForce(Vector2.right * _horizontalForce);
+    }
 
-	#region Private Methods
-	private void DoFly()
-	{
-		if (Energy > 0)
-		{
-			_targetRB.AddForce(Vector2.up * _flyForce);
-			Energy -= _energyFlyingRatio;
-		}
-		else
-			Flying = false;
-	}
-	#endregion
+    // Método para cambiar el valor de _maxEnergy cuando se complete el juego
+    public void SetMaxEnergyTo1000()
+    {
+        _maxEnergy = 1000f;  // Cambiar _maxEnergy a 1000
+        Energy = 1000f;  // Recargar la energía a 1000
+    }
+    #endregion
+
+    #region Private Methods
+    private void DoFly()
+    {
+        if (Energy > 0)
+        {
+            _targetRB.AddForce(Vector2.up * _flyForce);
+            Energy -= _energyFlyingRatio;
+        }
+        else
+            Flying = false;
+    }
+    #endregion
 }
-
-
